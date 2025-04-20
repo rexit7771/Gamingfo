@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "464992689824",
+    "project_id": "slicing-task",
+    "storage_bucket": "slicing-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464992689824:android:0cebc0779a685634eab3c5",
+        "android_client_info": {
+          "package_name": "com.example.tugas_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKaelFL_aQKHFc611s6odSio5YbXyIJWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464992689824:android:f2e8f7be890c7df3eab3c5",
+        "android_client_info": {
+          "package_name": "com.gamingfo.gamingfo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKaelFL_aQKHFc611s6odSio5YbXyIJWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
